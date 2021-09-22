@@ -1,2 +1,2 @@
-# node-template
- NodeJs template to start a new project.
+# NodeJs Tempate
+ A simple repo to start NodeJs projcets and practice nodejs.
