@@ -1,0 +1,20 @@
+{
+	"name": "node-template",
+	"version": "1.0.0",
+	"description": "Node Template Project to scaffold projects quickly",
+	"main": "index.js",
+	"scripts": {
+		"dev": "nodemon index.js"
+	},
+	"author": "kr40",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {
+		"eslint": "^7.32.0",
+		"eslint-config-google": "^0.14.0",
+		"eslint-config-prettier": "^8.3.0",
+		"eslint-plugin-import": "^2.24.2"
+	}
+}
